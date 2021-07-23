@@ -1,0 +1,7 @@
+data/org.ermeso.Timer.desktop.in
+data/org.ermeso.Timer.appdata.xml.in
+data/org.ermeso.Timer.gschema.xml
+src/window.ui
+src/main.js
+src/window.js
+

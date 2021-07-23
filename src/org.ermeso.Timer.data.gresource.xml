@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/ermeso/Timer">
+    <file>window.ui</file>
+    <file>assets/timer-symbolic.svg</file>
+  </gresource>
+</gresources>
